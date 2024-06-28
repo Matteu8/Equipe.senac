@@ -1,4 +1,31 @@
-.categorias {
-    height: 30%;
-    width: 20%;
+h3, p{
+    display: inline;
+
+
 }
+
+
+.categorias-imagens {
+    display: inline;
+    width: 10%;
+    border: 2px solid;
+    border-radius: 300px;
+    
+}
+
+.categoria-pag2 {
+    
+    display: inline;
+    width: 100%;
+    
+}
+
+.categorias{
+    display: inline;
+}
+
+.teste{
+    display: flex;
+    text-align: center;
+}
+

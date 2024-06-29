@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+hr{
+    border: 1px solid black;
+}
+img{
+    margin-left: 13.8rem;
+    width: 10rem;
+    height: 10rem;
+    border: 2px solid black;
+    border-radius: 20%;
+    box-shadow: 1px 1px 8px;
+    transition: box-shadow 0.3s ease-in-out;
+}
+img:hover{
+    box-shadow: 5px 0px 15px; color: blue;
+}
+p{
+    display: inline;
+}
+#gqc{
+    margin: 12rem;
+    font-weight: bold;
+    margin-right: -1rem;
+}
+#cbmc{
+    margin-left: 12.3rem;
+    font-weight: bold;
+}
+#ppb{
+    margin-left: 11.8rem;
+    font-weight: bold;
+}
+#cml{
+    margin-left: 13.5rem;
+    font-weight: bold;
+}
+#cmp{
+    margin-left: 15rem;
+    font-weight: bold;
+}
+#ctsp{
+    margin-left: 13rem;
+    font-weight: bold;
+}
+body{
+    margin: 0;
+}

@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+}
+a{
+    margin-left: 40rem;
+    border: 1px solid black;
+    padding: 2px 2px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+}
+a:hover{
+    transition: 0; color: rgb(102, 32, 102)   
+}
+h1{
+    text-align: center;
+}
+img{
+    margin-left: 13.6rem;
+    border: 1px solid black;
+    width: 10.5rem;
+    height: 10.5rem;
+    border-radius: 15%;
+    box-shadow: 3px 3px 10px;
+    
+}
+img:hover{
+    box-shadow: 3px 3px 9px; color: yellow;
+    transition: ease-in-out 0.3s;
+}
+hr{
+    border: 1px solid black;
+}
+p{
+    display: inline;
+    font-weight: bold;
+}
+#almix{
+    margin-left: 15rem;
+}
+#brim{
+    margin-left: 16.1rem;
+}
+#slim{
+    margin-left: 16.5rem;
+}
+#sarja{
+    margin-left: 15rem;
+    font-weight: bold;
+}
+#militar{
+    margin-left: 16.2rem;
+    font-weight: bold;
+}
+#jogger{
+    margin-left: 17.2rem;
+    font-weight: bold;
+}

@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 a{
-    margin-left: 40rem;
+    margin-left: 55rem;
     border: 1px solid black;
     padding: 2px 2px;
     text-decoration: none;
@@ -16,7 +16,7 @@ h1{
     text-align: center;
 }
 img{
-    margin-left: 13.6rem;
+    margin-left: 21rem;
     border: 1px solid black;
     width: 10.5rem;
     height: 10.5rem;
@@ -36,23 +36,23 @@ p{
     font-weight: bold;
 }
 #almix{
-    margin-left: 15rem;
+    margin-left: 22rem;
 }
 #brim{
-    margin-left: 16.1rem;
+    margin-left: 23.8rem;
 }
 #slim{
-    margin-left: 16.5rem;
+    margin-left: 24rem;
 }
 #sarja{
-    margin-left: 15rem;
+    margin-left: 22.3rem;
     font-weight: bold;
 }
 #militar{
-    margin-left: 16.2rem;
+    margin-left: 23.7rem;
     font-weight: bold;
 }
 #jogger{
-    margin-left: 17.2rem;
+    margin-left: 24.8rem;
     font-weight: bold;
 }

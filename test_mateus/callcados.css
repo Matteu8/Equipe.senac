@@ -11,7 +11,7 @@ img{
     border-radius: 5%;
     width: 10rem;
     height: 10rem;
-    margin-left: 13rem;
+    margin-left: 20rem;
     box-shadow: 3px 3px 10px;
 }
 img:hover{
@@ -19,7 +19,7 @@ img:hover{
     color: red;
 }
 #cot{
-    margin-left: 15rem;
+    margin-left: 22.2rem;
     font-weight: bold;
 }
 p{
@@ -38,30 +38,30 @@ a:hover{
     transition: 0; color: rgb(102, 32, 102); 
 }
 #tex1{
-    margin-left: 14.7rem;
+    margin-left: 21.5rem;
     font-weight: bold;
 }
 #tex2{
-    margin-left: 16.2rem;
+    margin-left: 23.5rem;
     font-weight: bold;
 }
 #tex3{
-    margin-left: 15.4rem;
+    margin-left: 22rem;
     font-weight: bold;
 }
 #mizu{
-    margin-left: 36.5rem;
+    margin-left: 50rem;
 }
 #textmizu{
-    margin-left: 38.6rem;
+    margin-left: 52rem;
     font-weight: bold;
 }
 #sap{
-    margin-left: 16rem ; 
+    margin-left: 22.7rem ; 
     font-weight: bold;
 }
 #max{
-    margin-left: 15.5rem;
+    margin-left: 22.5rem;
     font-weight: bold;
     
 }

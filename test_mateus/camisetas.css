@@ -7,7 +7,7 @@ hr{
     border: 1px solid black;
 }
 img{
-    margin-left: 13.8rem;
+    margin-left: 22.5rem;
     width: 10rem;
     height: 10rem;
     border: 2px solid black;
@@ -22,30 +22,42 @@ p{
     display: inline;
 }
 #gqc{
-    margin: 12rem;
+    margin: 21rem;
     font-weight: bold;
     margin-right: -1rem;
 }
 #cbmc{
-    margin-left: 12.3rem;
+    margin-left: 21.8rem;
     font-weight: bold;
 }
 #ppb{
-    margin-left: 11.8rem;
+    margin-left: 20rem;
     font-weight: bold;
 }
 #cml{
-    margin-left: 13.5rem;
+    margin-left: 22.9rem;
     font-weight: bold;
 }
 #cmp{
-    margin-left: 15rem;
+    margin-left: 23.3rem;
     font-weight: bold;
 }
 #ctsp{
-    margin-left: 13rem;
+    margin-left: 22rem;
     font-weight: bold;
 }
 body{
     margin: 0;
+}
+a{
+    margin-left: 57rem;
+    border: 1px solid black;
+    padding: 2px 2px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(102, 32, 102);
 }

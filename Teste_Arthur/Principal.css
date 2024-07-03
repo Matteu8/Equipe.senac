@@ -1,11 +1,15 @@
-h3, p{
+.categorias-div{
     display: inline;
-
-
+   
 }
 
+.categoria{
+    display: inline;
+    width: 100%;
+    
+}
 
-.categorias-imagens {
+img {
     display: inline;
     width: 10%;
     border: 2px solid;
@@ -13,41 +17,29 @@ h3, p{
     
 }
 
-.categoria-pag2 {
-    
+.categoria-pag-masculina {
     display: inline;
     width: 100%;
     
 }
 
-.categorias{
-    display: inline;
-    text-align: center;
-    width: 100%;
+#titulo-masculino {
+    margin-left: 4rem;
+    margin: 3rem;
 }
 
-.categorias2{
-    display: inline;
-   
-    
+#titulo-feminino {
+    margin-left: 8rem;
+}
+
+#titulo-infantil {
+    margin-left: 9rem;
 }
 
 .botão {
     display: inline;
 }
 
-#titulo-masculino {
-    margin-left: 5rem;
-}
-
-#titulo-feminino {
-    margin-left: 15rem;
-}
-
-#titulo-infantil {
-    margin-left: 15rem;
-}
-
-img {
-    width: 15%;
+p {
+    display: inline;
 }

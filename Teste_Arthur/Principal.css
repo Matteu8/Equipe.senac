@@ -22,10 +22,32 @@ h3, p{
 
 .categorias{
     display: inline;
-}
-
-.teste{
-    display: flex;
     text-align: center;
+    width: 100%;
 }
 
+.categorias2{
+    display: inline;
+   
+    
+}
+
+.botão {
+    display: inline;
+}
+
+#titulo-masculino {
+    margin-left: 5rem;
+}
+
+#titulo-feminino {
+    margin-left: 15rem;
+}
+
+#titulo-infantil {
+    margin-left: 15rem;
+}
+
+img {
+    width: 15%;
+}

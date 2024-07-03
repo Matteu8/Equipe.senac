@@ -1,4 +1,53 @@
-.categorias {
-    height: 30%;
-    width: 20%;
+h3, p{
+    display: inline;
+
+
+}
+
+
+.categorias-imagens {
+    display: inline;
+    width: 10%;
+    border: 2px solid;
+    border-radius: 300px;
+    
+}
+
+.categoria-pag2 {
+    
+    display: inline;
+    width: 100%;
+    
+}
+
+.categorias{
+    display: inline;
+    text-align: center;
+    width: 100%;
+}
+
+.categorias2{
+    display: inline;
+   
+    
+}
+
+.botão {
+    display: inline;
+}
+
+#titulo-masculino {
+    margin-left: 5rem;
+}
+
+#titulo-feminino {
+    margin-left: 15rem;
+}
+
+#titulo-infantil {
+    margin-left: 15rem;
+}
+
+img {
+    width: 15%;
 }

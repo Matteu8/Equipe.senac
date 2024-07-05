@@ -1,9 +1,13 @@
 .carousel-item{
     width: 15rem;
     height: 15rem;
-    margin-left: 52rem;
+    margin-left: 32.5rem;
     border: 2px solid white;
 }
 h1{
     text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
 }

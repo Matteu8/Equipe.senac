@@ -1,48 +1,7 @@
 h1{
     text-align: center;
 }
-form{
-    text-align: center;
-}
-
-textarea{
-    border: 1px dashed black;
-    border-radius: 1rem;
-    width: 20rem;
-    height: 5rem;
-}
-label{
-    color: red;
-}
-.lef{
-    margin-right: 5rem;
-    border-radius: 3px;
-    padding: 2px 2px;
-}
-.lef:hover{
-    transition: 0.3; color: rgb(102, 32, 102);
-}
 a{
     text-decoration: none;
-    color: black;
-    border: 1px solid black;
-    background-color: rgb(240, 240, 240);
-    border-radius: 3px;
-
-}
-.bor{
-    border: 1px solid black;
-    border-radius: 1rem;
-}
-hr{
-    border: 1px solid black;
-}
-#env{
-    border: 1px solid black;
-    border-radius: 3px;
-    margin-left: 7rem;
-}
-#env:hover{
-    transition: 0.3; color: rgb(102, 32, 102);
-    cursor: pointer;
+    color: white;
 }

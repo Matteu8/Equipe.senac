@@ -1,38 +1,7 @@
 h1{
     text-align: center;
 }
-img{
-    margin-left: 20rem;
-    border: 1px solid black;
-    border-radius: 15%;
-}
-p{
-    display: inline;
-}
-#mpp{
-    margin-left: 21.3rem;
-    font-weight: bold;
-}
-#pp{
-    margin-left: 23.6rem;
-    font-weight: bold;
-}
-#imi{
-    margin-left: 20rem;
-    font-weight: bold;
-}
-hr{
-    border: 1px solid black;
-}
-#civ{
-    margin-left: 20.3rem;
-    font-weight: bold;
-}
-#mcb{
-    margin-left: 23rem;
-    font-weight: bold;
-}
-#mcm{
-    margin-left: 25rem;
-    font-weight: bold;
+a{
+    color: white;
+    text-decoration: none;
 }

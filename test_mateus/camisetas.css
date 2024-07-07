@@ -1,13 +1,14 @@
-.carousel-item{
-    width: 15rem;
-    height: 15rem;
-    margin-left: 32.5rem;
-    border: 2px solid white;
-}
-h1{
-    text-align: center;
-}
-a{
+a {
     color: white;
     text-decoration: none;
+}
+.new{
+    text-align: center;
+    margin-left: 32.5rem;
+}
+.puf{
+    margin-left: 32.5rem;
+}
+.ter{
+    margin-left: 32.5rem;
 }

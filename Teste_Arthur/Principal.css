@@ -1,45 +1,55 @@
-.categorias-div{
-    display: inline;
-   
-}
-
-.categoria{
-    display: inline;
-    width: 100%;
-    
-}
-
 img {
-    display: inline;
-    width: 10%;
-    border: 2px solid;
-    border-radius: 300px;
-    
+    width: 30%;
+    border: 3px solid rgb(0, 174, 255);
+    border-radius: 34%;
+    margin: 1rem;
 }
 
-.categoria-pag-masculina {
+#calca-feminino {
+    height: 389px;
+}
+
+#titulo-camisa {
     display: inline;
-    width: 100%;
-    
+    margin-left: 11rem;
+}
+
+#titulo-calça {
+    display: inline;
+    margin-left: 24rem
+}
+
+#titulo-calçados{
+    display: inline;
+    margin-left: 23rem
 }
 
 #titulo-masculino {
-    margin-left: 4rem;
-    margin: 3rem;
+    display: inline;
+    margin-left: 11rem;
 }
 
 #titulo-feminino {
-    margin-left: 8rem;
+    display: inline;
+    margin-left: 22rem
 }
 
 #titulo-infantil {
-    margin-left: 9rem;
+    display: inline;
+    margin-left: 23rem
 }
 
-.botão {
+#tituloo-camisa {
     display: inline;
+    margin-left: 11rem;
 }
 
-p {
+#tituloo-calça {
     display: inline;
+    margin-left: 24rem
+}
+
+#tituloo-calçados{
+    display: inline;
+    margin-left: 23rem
 }

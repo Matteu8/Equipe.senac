@@ -1,0 +1,13 @@
+.carousel-item{
+    width: 15rem;
+    height: 15rem;
+    margin-left: 33rem;
+    border: 2px solid white;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
